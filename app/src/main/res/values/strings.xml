@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GjunMenu</string>
+    <string name="s1">Java國際認證</string>
+    <string name="s2">CCNA網路管理</string>
+    <string name="s3">Android手機專班</string>
+    <string name="s4">離開</string>
+    <string name="s5">Android入門</string>
+    <string name="s6">Android專業</string>
+</resources>
